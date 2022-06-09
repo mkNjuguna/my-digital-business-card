@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    padding: 44px 117px;
+    background-color: #23252C;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.my-image {
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0 0;
+}
