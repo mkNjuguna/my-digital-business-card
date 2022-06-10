@@ -15,7 +15,7 @@ export default function Info() {
                         Email
                     </button>
                     <button className={"linkedin-button"}>
-                        <img className={"linkedin-icon"} src={LinkedIn} alt={"linkedin-icon"}/>
+                        <img className={"linkedin-icon"} src={LinkedIn} alt={"linkedin-icon"} />
                         LinkedIn
                     </button>
                 </div>

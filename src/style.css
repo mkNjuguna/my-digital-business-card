@@ -5,7 +5,8 @@
 body {
     margin: 0;
     height: 100%;
-    padding-block: 44px; /*Adds padding top & bottom*/
+    padding-block: 44px;
+    /*Adds padding top & bottom*/
     background-color: #23252C;
     font-family: 'Inter', sans-serif;
 }
@@ -187,4 +188,3 @@ button {
     width: 25px;
     height: 25px;
 }
-
