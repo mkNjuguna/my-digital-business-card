@@ -9,10 +9,10 @@ export default function Footer() {
     return (
         <div className={"footer-container"}>
             <div className={"socials-icons"}>
-                <img className={"icon-size"} src={TwitterIcon} alt={""}/>
-                <img className={"icon-size"} src={FacebookIcon} alt={""}/>
-                <img className={"icon-size"} src={InstagramIcon} alt={""}/>
-                <img className={"icon-size"} src={GithubIcon} alt={""}/>
+                <img className={"icon-size"} src={TwitterIcon} alt={""} />
+                <img className={"icon-size"} src={FacebookIcon} alt={""} />
+                <img className={"icon-size"} src={InstagramIcon} alt={""} />
+                <img className={"icon-size"} src={GithubIcon} alt={""} />
             </div>
         </div>
     )

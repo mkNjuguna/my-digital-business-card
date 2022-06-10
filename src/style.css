@@ -5,10 +5,9 @@
 body {
     margin: 0;
     height: 100%;
-    padding: 44px 117px;
+    padding-block: 44px; /*Adds padding top & bottom*/
     background-color: #23252C;
     font-family: 'Inter', sans-serif;
-    position: relative;
 }
 
 .container {
